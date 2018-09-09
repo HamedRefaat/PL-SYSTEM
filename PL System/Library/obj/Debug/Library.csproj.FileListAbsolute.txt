@@ -1,0 +1,40 @@
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL\obj\Debug\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL\bin\Debug\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL\bin\Debug\PL.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL\obj\Debug\PL.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\Library\bin\Debug\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\Library\bin\Debug\PL.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\Library\obj\Debug\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\Library\obj\Debug\PL.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\Library\bin\Debug\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\Library\bin\Debug\PL.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\Library\obj\Debug\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\Library\obj\Debug\PL.pdb
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\Library\bin\Debug\PL.dll
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\Library\bin\Debug\PL.pdb
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\Library\obj\Debug\PL.dll
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\Library\obj\Debug\PL.pdb
+E:\Temp\Projects old\PL\Library\bin\Debug\PL.dll
+E:\Temp\Projects old\PL\Library\bin\Debug\PL.pdb
+E:\Temp\Projects old\PL\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+E:\Temp\Projects old\PL\Library\obj\Debug\PL.dll
+E:\Temp\Projects old\PL\Library\obj\Debug\PL.pdb
+E:\Faculty\PL\Library\bin\Debug\PL.dll
+E:\Faculty\PL\Library\bin\Debug\PL.pdb
+E:\Faculty\PL\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+E:\Faculty\PL\Library\obj\Debug\PL.dll
+E:\Faculty\PL\Library\obj\Debug\PL.pdb
+D:\Faculty\PL\Library\bin\Debug\PL.dll
+D:\Faculty\PL\Library\bin\Debug\PL.pdb
+D:\Faculty\PL\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Faculty\PL\Library\obj\Debug\PL.dll
+D:\Faculty\PL\Library\obj\Debug\PL.pdb
+F:\my_projects\PL\Library\bin\Debug\PL.dll
+F:\my_projects\PL\Library\bin\Debug\PL.pdb
+F:\my_projects\PL\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+F:\my_projects\PL\Library\obj\Debug\PL.dll
+F:\my_projects\PL\Library\obj\Debug\PL.pdb

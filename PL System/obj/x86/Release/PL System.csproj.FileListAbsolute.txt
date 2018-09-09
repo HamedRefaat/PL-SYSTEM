@@ -1,0 +1,37 @@
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Release\PL System.exe.config
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Release\PL System.exe.manifest
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Release\PL System.application
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Release\PL System.exe
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Release\PL System.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Release\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Release\TableColumn.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Release\ThemeKit.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Release\PL.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Release\TableColumn.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Release\PLSystems.MainForm.resources
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Release\PLSystems.Properties.Resources.resources
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Release\PL System.exe.manifest
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Release\PL System.application
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Release\PL System.exe
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Release\PL System.pdb
+F:\my_projects\PL\PL System\bin\Release\PL System.exe.config
+F:\my_projects\PL\PL System\obj\x86\Release\PL System.exe
+F:\my_projects\PL\PL System\obj\x86\Release\PL System.pdb
+F:\my_projects\PL\PL System\bin\Release\PL System.exe.manifest
+F:\my_projects\PL\PL System\bin\Release\PL System.application
+F:\my_projects\PL\PL System\bin\Release\PL System.exe
+F:\my_projects\PL\PL System\bin\Release\PL System.pdb
+F:\my_projects\PL\PL System\bin\Release\PL.dll
+F:\my_projects\PL\PL System\bin\Release\TableColumn.dll
+F:\my_projects\PL\PL System\bin\Release\ThemeKit.dll
+F:\my_projects\PL\PL System\bin\Release\PL.pdb
+F:\my_projects\PL\PL System\bin\Release\TableColumn.pdb
+F:\my_projects\PL\PL System\obj\x86\Release\PL System.csprojResolveAssemblyReference.cache
+F:\my_projects\PL\PL System\obj\x86\Release\PLSystems.MainForm.resources
+F:\my_projects\PL\PL System\obj\x86\Release\PLSystems.Properties.Resources.resources
+F:\my_projects\PL\PL System\obj\x86\Release\PL System.csproj.GenerateResource.Cache
+F:\my_projects\PL\PL System\obj\x86\Release\PL System.exe.manifest
+F:\my_projects\PL\PL System\obj\x86\Release\PL System.application

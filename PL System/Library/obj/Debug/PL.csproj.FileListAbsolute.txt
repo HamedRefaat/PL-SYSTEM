@@ -1,0 +1,10 @@
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL\bin\Debug\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL\bin\Debug\PL.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL\obj\Debug\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL\obj\Debug\PL.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL\obj\Debug\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL\obj\Debug\PL.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL\bin\Debug\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL\bin\Debug\PL.pdb

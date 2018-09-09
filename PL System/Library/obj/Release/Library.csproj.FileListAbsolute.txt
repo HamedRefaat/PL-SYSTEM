@@ -1,0 +1,9 @@
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\Library\bin\Release\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\Library\bin\Release\PL.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\Library\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\Library\obj\Release\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\Library\obj\Release\PL.pdb
+F:\my_projects\PL\Library\bin\Release\PL.dll
+F:\my_projects\PL\Library\bin\Release\PL.pdb
+F:\my_projects\PL\Library\obj\Release\PL.dll
+F:\my_projects\PL\Library\obj\Release\PL.pdb

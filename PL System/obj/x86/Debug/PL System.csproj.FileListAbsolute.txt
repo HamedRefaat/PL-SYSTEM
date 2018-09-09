@@ -1,0 +1,128 @@
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\bin\Debug\PL System.exe
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\bin\Debug\PL System.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\obj\x86\Debug\PL System.exe
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\obj\x86\Debug\PL System.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\bin\Debug\PL System.exe.config
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\bin\Debug\ThemeKit.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\bin\Debug\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\bin\Debug\PL.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\bin\Debug\TableColumn.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\bin\Debug\TableColumn.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\obj\x86\Debug\PLSystems.MainForm.resources
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL Recovery 02\PL System\obj\x86\Debug\PLSystems.Properties.Resources.resources
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\PLSystems.MainForm.resources
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\PLSystems.Properties.Resources.resources
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL System.exe.config
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL System.exe.manifest
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL System.application
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL System.exe
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL System.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\TableColumn.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\ThemeKit.dll
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\TableColumn.pdb
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\PL System.exe.manifest
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\PL System.application
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\PL System.exe
+C:\Users\Mandroid\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\PL System.pdb
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL System.exe.config
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\PL System.exe
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\PL System.pdb
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL System.exe.manifest
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL System.application
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL System.exe
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL System.pdb
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL.dll
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\TableColumn.dll
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\ThemeKit.dll
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\PL.pdb
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\bin\Debug\TableColumn.pdb
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\PLSystems.MainForm.resources
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\PLSystems.Properties.Resources.resources
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\PL System.exe.manifest
+C:\Users\Mango Dev\Documents\Visual Studio 2010\Projects\PL\PL System\obj\x86\Debug\PL System.application
+E:\Temp\Projects old\PL\PL System\bin\Debug\PL System.exe.config
+E:\Temp\Projects old\PL\PL System\obj\x86\Debug\PL System.exe
+E:\Temp\Projects old\PL\PL System\obj\x86\Debug\PL System.pdb
+E:\Temp\Projects old\PL\PL System\bin\Debug\PL System.exe.manifest
+E:\Temp\Projects old\PL\PL System\bin\Debug\PL System.application
+E:\Temp\Projects old\PL\PL System\bin\Debug\PL System.exe
+E:\Temp\Projects old\PL\PL System\bin\Debug\PL System.pdb
+E:\Temp\Projects old\PL\PL System\bin\Debug\PL.dll
+E:\Temp\Projects old\PL\PL System\bin\Debug\TableColumn.dll
+E:\Temp\Projects old\PL\PL System\bin\Debug\ThemeKit.dll
+E:\Temp\Projects old\PL\PL System\bin\Debug\PL.pdb
+E:\Temp\Projects old\PL\PL System\bin\Debug\TableColumn.pdb
+E:\Temp\Projects old\PL\PL System\obj\x86\Debug\PL System.csprojResolveAssemblyReference.cache
+E:\Temp\Projects old\PL\PL System\obj\x86\Debug\PLSystems.MainForm.resources
+E:\Temp\Projects old\PL\PL System\obj\x86\Debug\PLSystems.Properties.Resources.resources
+E:\Temp\Projects old\PL\PL System\obj\x86\Debug\PL System.csproj.GenerateResource.Cache
+E:\Temp\Projects old\PL\PL System\obj\x86\Debug\PL System.exe.manifest
+E:\Temp\Projects old\PL\PL System\obj\x86\Debug\PL System.application
+E:\Faculty\PL\PL System\bin\Debug\PL System.exe.config
+E:\Faculty\PL\PL System\obj\x86\Debug\PL System.exe
+E:\Faculty\PL\PL System\obj\x86\Debug\PL System.pdb
+E:\Faculty\PL\PL System\bin\Debug\PL System.exe.manifest
+E:\Faculty\PL\PL System\bin\Debug\PL System.application
+E:\Faculty\PL\PL System\bin\Debug\PL System.exe
+E:\Faculty\PL\PL System\bin\Debug\PL System.pdb
+E:\Faculty\PL\PL System\bin\Debug\PL.dll
+E:\Faculty\PL\PL System\bin\Debug\TableColumn.dll
+E:\Faculty\PL\PL System\bin\Debug\ThemeKit.dll
+E:\Faculty\PL\PL System\bin\Debug\PL.pdb
+E:\Faculty\PL\PL System\bin\Debug\TableColumn.pdb
+E:\Faculty\PL\PL System\obj\x86\Debug\PL System.csprojResolveAssemblyReference.cache
+E:\Faculty\PL\PL System\obj\x86\Debug\PLSystems.MainForm.resources
+E:\Faculty\PL\PL System\obj\x86\Debug\PLSystems.Properties.Resources.resources
+E:\Faculty\PL\PL System\obj\x86\Debug\PL System.csproj.GenerateResource.Cache
+E:\Faculty\PL\PL System\obj\x86\Debug\PL System.exe.manifest
+E:\Faculty\PL\PL System\obj\x86\Debug\PL System.application
+D:\Faculty\PL\PL System\bin\Debug\PL System.exe.config
+D:\Faculty\PL\PL System\obj\x86\Debug\PL System.exe
+D:\Faculty\PL\PL System\obj\x86\Debug\PL System.pdb
+D:\Faculty\PL\PL System\bin\Debug\PL System.exe.manifest
+D:\Faculty\PL\PL System\bin\Debug\PL System.application
+D:\Faculty\PL\PL System\bin\Debug\PL System.exe
+D:\Faculty\PL\PL System\bin\Debug\PL System.pdb
+D:\Faculty\PL\PL System\bin\Debug\PL.dll
+D:\Faculty\PL\PL System\bin\Debug\TableColumn.dll
+D:\Faculty\PL\PL System\bin\Debug\ThemeKit.dll
+D:\Faculty\PL\PL System\bin\Debug\PL.pdb
+D:\Faculty\PL\PL System\bin\Debug\TableColumn.pdb
+D:\Faculty\PL\PL System\obj\x86\Debug\PL System.csprojResolveAssemblyReference.cache
+D:\Faculty\PL\PL System\obj\x86\Debug\PLSystems.MainForm.resources
+D:\Faculty\PL\PL System\obj\x86\Debug\PLSystems.Properties.Resources.resources
+D:\Faculty\PL\PL System\obj\x86\Debug\PL System.csproj.GenerateResource.Cache
+D:\Faculty\PL\PL System\obj\x86\Debug\PL System.exe.manifest
+D:\Faculty\PL\PL System\obj\x86\Debug\PL System.application
+F:\my_projects\PL\PL System\bin\Debug\PL System.exe.config
+F:\my_projects\PL\PL System\obj\x86\Debug\PL System.exe
+F:\my_projects\PL\PL System\obj\x86\Debug\PL System.pdb
+F:\my_projects\PL\PL System\bin\Debug\PL System.exe.manifest
+F:\my_projects\PL\PL System\bin\Debug\PL System.application
+F:\my_projects\PL\PL System\bin\Debug\PL System.exe
+F:\my_projects\PL\PL System\bin\Debug\PL System.pdb
+F:\my_projects\PL\PL System\bin\Debug\PL.dll
+F:\my_projects\PL\PL System\bin\Debug\TableColumn.dll
+F:\my_projects\PL\PL System\bin\Debug\ThemeKit.dll
+F:\my_projects\PL\PL System\bin\Debug\PL.pdb
+F:\my_projects\PL\PL System\bin\Debug\TableColumn.pdb
+F:\my_projects\PL\PL System\obj\x86\Debug\PL System.csprojResolveAssemblyReference.cache
+F:\my_projects\PL\PL System\obj\x86\Debug\PLSystems.Properties.Resources.resources
+F:\my_projects\PL\PL System\obj\x86\Debug\PL System.csproj.GenerateResource.Cache
+F:\my_projects\PL\PL System\obj\x86\Debug\PL System.exe.manifest
+F:\my_projects\PL\PL System\obj\x86\Debug\PL System.application
+F:\my_projects\PL\PL System\obj\x86\Debug\PLSystems.MainForm1.resources
+F:\my_projects\PL\PL System\obj\x86\Debug\PLSystems.PL_System.resources
